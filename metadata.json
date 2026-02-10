@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Easy Lesson",
+  "description": "An intelligent multilingual educational assistant that reads lesson images, understands the content, extracts exercises, and solves them in the same language as the lesson (English, Urdu, Sindhi).",
+  "requestFramePermissions": []
+}
