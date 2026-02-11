@@ -25,5 +25,9 @@
   },
   "overrides": {
     "glob": "latest"
-  }
+  },
+  "overrides": {
+  "node-domexception": "latest"
+}
+
 }
